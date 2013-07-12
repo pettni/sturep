@@ -1,0 +1,122 @@
+OBJECT0:CONTAINER:ficka:en:liten ficka:Fickan::ligger:0:0:0:0:0:1:0.5:
+ACTOR0:VISITOR:Investment bankern:Eli Cash:Står:60:2000:0:0::OBJECT0::What's up?,Har ett bra jobb va.,Stek.:0.2
+OBJECT1:CONTAINER:ficka:en:liten ficka:Fickan::ligger:0:0:0:0:0:1:0.5:
+ACTOR1:VISITOR:Investment bankern:LLoyd:Står:60:2000:0:0::OBJECT1::What's up?,Har ett bra jobb va.,Stek.:0.2
+OBJECT2:WEAPON:en diskret butterflykniv:en:kniv:Butterflykniven:högg:ligger:0.1:0.2:300:50:0
+OBJECT3:CONTAINER:en moderiktig handväska:en:handväska:Väskan::ligger:1.6:2:3000:0:0:2:2:OBJECT2
+OBJECT4:CONTAINER:ficka:::::ligger:0:0:0:0:0:1:0.5:
+ACTOR2:VISITOR:Tjejpolaren:Natasha::60:500:0:0:OBJECT3:OBJECT4::Tjena JW! Vart ska du ikväll?,Har du något ladd?:0.5
+OBJECT5:WEAPON:en diskret butterflykniv:en:kniv:Butterflykniven:högg:ligger:0.1:0.2:300:50:0
+OBJECT6:CONTAINER:en moderiktig handväska:en:handväska:Väskan::ligger:1.6:2:3000:0:0:2:2:OBJECT5
+OBJECT7:CONTAINER:ficka:::::ligger:0:0:0:0:0:1:0.5:
+ACTOR3:VISITOR:Tjejpolaren:Anita::60:500:0:0:OBJECT6:OBJECT7::Jag har hört att Fadde på Spy Bar är svag för tabletter.,Har du något ladd?:1
+OBJECT8:WEAPON:en diskret butterflykniv:en:kniv:Butterflykniven:högg:ligger:0.1:0.2:300:50:0
+OBJECT9:CONTAINER:en moderiktig handväska:en:handväska:Väskan::ligger:1.6:2:3000:0:0:2:2:OBJECT8
+OBJECT10:CONTAINER:ficka:::::ligger:0:0:0:0:0:1:0.5:
+ACTOR4:VISITOR:Tjejpolaren:Ivana::60:500:0:0:OBJECT9:OBJECT10::Tjena JW! Vart ska du ikväll?,Har du träffat Bingo JW?:0.4
+OBJECT11:WEAPON:kraftig teleskopbatong:en:batong:Batongen:slog:ligger:0.8:2:800:30:0
+OBJECT12:CONTAINER:ficka:::::ligger:0:0:0:0:0:1:0.5:
+ACTOR5:WORKER:Polisen:Kling::100:0:0:0:OBJECT11:OBJECT12::Hur var det här då?,Är det lugnt ikväll eller?
+OBJECT13:WEAPON:kraftig teleskopbatong:en:batong:Batongen:slog:ligger:0.8:2:800:30:0
+OBJECT14:CONTAINER:ficka:::::ligger:0:0:0:0:0:1:0.5:
+ACTOR6:WORKER:Polisen:Klang::100:0:0:0:OBJECT13:OBJECT14::Hur var det här då?,Är det lugnt ikväll eller?
+OBJECT15:WEAPON:kraftig teleskopbatong:en:batong:Batongen:slog:ligger:0.8:2:800:30:0
+OBJECT16:CONTAINER:ficka:::::ligger:0:0:0:0:0:1:0.5:
+ACTOR7:WORKER:Polisen:Börje::100:0:0:0:OBJECT15:OBJECT16::Hur var det här då?,Är det lugnt ikväll eller?
+OBJECT17:WEAPON:en burk pepparsprej:en:pepparsprej:Pepparsprejen:sprejade:ligger:0.3:0.5:500:20:0
+OBJECT18:CONTAINER:ficka:::::ligger:0:0:0:0:0:1:0.5:
+ACTOR8:WORKER:Vakten:Fadde::90:0:0:0:OBJECT17:OBJECT18::Skulle vilja ha nåt som livar upp vardagen.
+OBJECT19:WEAPON:en burk pepparsprej:en:pepparsprej:Pepparsprejen:sprejade:ligger:0.3:0.5:500:20:0
+OBJECT20:CONTAINER:ficka:::::ligger:0:0:0:0:0:1:0.5:
+ACTOR9:WORKER:Vakten:Fedde::90:0:0:0:OBJECT19:OBJECT20::Ser rätt fullt ut ikväll. Men jag skulle gärna spela på hästar imorn om du förstår...
+OBJECT21:WEAPON:krossad glasflaska:en:glasflaska:Glasflaskan:skar:ligger:0.2:0.33:0:14:0
+OBJECT22:USABLE:Heineken:en:öl:Ölen:drack:Står:0.5:0.33:50:10:0.2:OBJECT21
+OBJECT23:CONTAINER:ficka:en:liten ficka:Fickan::ligger:0:0:0:0:0:1:0.5:
+ACTOR10:SALESMAN:Bartendern:Chris:Står:100:0:0:0::OBJECT23:::OBJECT22:På bardisken
+OBJECT24:WEAPON:krossad glasflaska:en:glasflaska:Glasflaskan:skar:ligger:0.2:0.33:0:14:0
+OBJECT25:USABLE:stor stark:en:öl:Ölen:drack:Står:0.5:0.33:50:10:0.2:OBJECT24
+OBJECT26:CONTAINER:ficka:en:liten ficka:Fickan::ligger:0:0:0:0:0:1:0.5:
+ACTOR11:SALESMAN:Bartendern:Amber:Står:100:0:0:0::OBJECT26:::OBJECT25:På den smutsiga bardisken
+OBJECT27:USABLE:cheeseburgare:en:hamburgare:Hamburgaren:käkade:ligger:0.2:0.3:40:40:-0.2:
+OBJECT28:CONTAINER:ficka:en:liten ficka:Fickan::ligger:0:0:0:0:0:1:0.5:
+ACTOR12:SALESMAN:Kassörskan:Lina:Står:100:0:0:0::OBJECT28:::OBJECT27:på en bricka
+OBJECT29:OBJECT:VIP-kort:ett:all-accesskort till Spy Bars VIP-lounge:VIP-kortet::ligger:0:0:0:0:0
+OBJECT30:CONTAINER:ficka:::::ligger:0:0:0:0:0:1:0.5:OBJECT29
+ACTOR13:VISITOR:Fotografen:Bingo Rimér::100:0:0:0::OBJECT30::Jag är så jävla hungrig asså.,Jag är så hungrig att jag inte kan tänka!:0
+OBJECT31:USABLE:fultjack:två tabletter:knark:Knarket:svalde:ligger:0.05:0.1:500:-80:4:
+OBJECT32:CONTAINER:ficka:en:liten ficka:Fickan::ligger:0:0:0:0:0:1:0.5:
+ACTOR14:SALESMAN:Knarklangaren:Ricardo:Står:100:0:0:0::OBJECT32::Jag säljer den bästa skiten i stan.,Skaru ha nåt eller?:OBJECT31:på handfatet
+OBJECT33:CONTAINER:ficka:en:liten ficka:Fickan::ligger:0:0:0:0:0:1:0.5:
+ACTOR-1:MAIN_ACTOR:Stekaren:JW:Står:100:0:0:0::OBJECT33:::0
+OBJECT34:WEAPON:tung gatsten:en:gatsten:Gatstenen:attackerade:ligger:2:2:0:8:0
+ENVIRONMENT0:OUTDOOR:Kungsgatan:På:på marken:OBJECT34;på marken
+ENVIRONMENT1:OUTDOOR:Stureplan:På:på marken:
+ENVIRONMENT2:INDOOR:McDonalds:På:På golvet:
+OBJECT35:MONEY:350 kronor:en bunt:pengar:Pengarna::ligger:0.007:0.0077:350:0:0:
+ENVIRONMENT3:INDOOR:toaletten på McDonalds:På:På golvet:OBJECT35;På golvet
+OBJECT36:WEAPON:kraftig teleskopbatong:en:batong:Batongen:slog:ligger:0.8:2:800:30:0
+OBJECT37:CONTAINER:en rymlig sportbag:en:bag:Sportbagen::ligger:2:20:400:0:0:20:20:
+OBJECT38:MONEY:1000 kronor:en bunt:pengar:Pengarna::ligger:0.02:0.022:1000:0:0:
+ENVIRONMENT4:INDOOR:polisvanen vid Svampen:I:På golvet:OBJECT36;På bordet,OBJECT37;På golvet,OBJECT38;På golvet
+ENVIRONMENT5:QUEUE:kön till Golden Hits:I:på marken::1
+ENVIRONMENT6:INDOOR:dansgolvet på Golden Hits:På:På golvet:
+ENVIRONMENT7:INDOOR:baren på Golden Hits:I:Under en barstol:
+ENVIRONMENT8:INDOOR:toaletten på Golden Hits:På:På golvet:
+ENVIRONMENT9:QUEUE:kön till Spy Bar:I:på marken::1
+ENVIRONMENT10:INDOOR:dansgolvet på Spy Bar:På:På golvet:
+ENVIRONMENT11:INDOOR:baren på Spy Bar:I:Under en barstol:
+ENVIRONMENT12:INDOOR:toaletten på Spy Bar:På:På golvet:
+ENVIRONMENT13:TAXI_QUEUE:taxikön vid Stureplan:I:på marken:
+
+
+CONNECTION:ENVIRONMENT0:ENVIRONMENT5:Golden Hits
+CONNECTION:ENVIRONMENT0:ENVIRONMENT2:McDonalds
+CONNECTION:ENVIRONMENT0:ENVIRONMENT1:Stureplan
+CONNECTION:ENVIRONMENT1:ENVIRONMENT0:Kungsgatan
+CONNECTION:ENVIRONMENT1:ENVIRONMENT9:Spy Bar
+CONNECTION:ENVIRONMENT1:ENVIRONMENT4:polisen
+CONNECTION:ENVIRONMENT1:ENVIRONMENT13:taxikön
+CONNECTION:ENVIRONMENT2:ENVIRONMENT3:toaletten
+CONNECTION:ENVIRONMENT2:ENVIRONMENT0:ut
+CONNECTION:ENVIRONMENT3:ENVIRONMENT2:ut
+CONNECTION:ENVIRONMENT4:ENVIRONMENT1:ut
+CONNECTION:ENVIRONMENT5:ENVIRONMENT0:Kungsgatan
+CONNECTION:ENVIRONMENT5:ENVIRONMENT6:in
+QUEUECONNECTION:ENVIRONMENT5:ENVIRONMENT6
+CONNECTION:ENVIRONMENT6:ENVIRONMENT7:baren
+CONNECTION:ENVIRONMENT6:ENVIRONMENT8:toaletten
+CONNECTION:ENVIRONMENT6:ENVIRONMENT0:ut
+CONNECTION:ENVIRONMENT7:ENVIRONMENT6:dansgolvet
+CONNECTION:ENVIRONMENT7:ENVIRONMENT8:toaletten
+CONNECTION:ENVIRONMENT8:ENVIRONMENT7:baren
+CONNECTION:ENVIRONMENT8:ENVIRONMENT6:dansgolvet
+CONNECTION:ENVIRONMENT9:ENVIRONMENT1:Stureplan
+CONNECTION:ENVIRONMENT9:ENVIRONMENT10:in
+QUEUECONNECTION:ENVIRONMENT9:ENVIRONMENT10
+CONNECTION:ENVIRONMENT10:ENVIRONMENT11:baren
+CONNECTION:ENVIRONMENT10:ENVIRONMENT12:toaletten
+CONNECTION:ENVIRONMENT10:ENVIRONMENT1:ut
+CONNECTION:ENVIRONMENT11:ENVIRONMENT10:dansgolvet
+CONNECTION:ENVIRONMENT11:ENVIRONMENT12:toaletten
+CONNECTION:ENVIRONMENT12:ENVIRONMENT11:baren
+CONNECTION:ENVIRONMENT12:ENVIRONMENT10:dansgolvet
+CONNECTION:ENVIRONMENT13:ENVIRONMENT1:Stureplan
+CONNECTION:ENVIRONMENT0:ACTOR7
+CONNECTION:ENVIRONMENT1:ACTOR4
+CONNECTION:ENVIRONMENT1:ACTOR-1
+CONNECTION:ENVIRONMENT2:ACTOR12
+CONNECTION:ENVIRONMENT4:ACTOR5
+CONNECTION:ENVIRONMENT4:ACTOR6
+CONNECTION:ENVIRONMENT5:ACTOR9
+CONNECTION:ENVIRONMENT7:ACTOR11
+CONNECTION:ENVIRONMENT8:ACTOR1
+CONNECTION:ENVIRONMENT8:ACTOR14
+CONNECTION:ENVIRONMENT8:ACTOR3
+CONNECTION:ENVIRONMENT9:ACTOR8
+CONNECTION:ENVIRONMENT10:ACTOR13
+CONNECTION:ENVIRONMENT11:ACTOR0
+CONNECTION:ENVIRONMENT11:ACTOR10
+CONNECTION:ENVIRONMENT12:ACTOR2
+
+TAXI:ENVIRONMENT13
+RESPAWN:ENVIRONMENT3
